@@ -35,7 +35,7 @@ flask\_test\_app/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/flask-test-app.git
+git clone https://github.com/nitinkumar30/flask-sqlalchemy-starter.git
 cd flask-test-app
 ````
 
